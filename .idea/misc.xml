@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin/FINAL-Round/4MarsPhotoApp/app/src/main/res/drawable/ic_broken_image.xml" value="0.1" />
+        <entry key="..\:/Kotlin/FINAL-Round/4MarsPhotoApp/app/src/main/res/drawable/ic_connection_error.xml" value="0.1" />
+        <entry key="..\:/Kotlin/FINAL-Round/4MarsPhotoApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Kotlin/FINAL-Round/4MarsPhotoApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Kotlin/FINAL-Round/4MarsPhotoApp/app/src/main/res/drawable/loading_img.xml" value="0.1" />
+        <entry key="..\:/Kotlin/FINAL-Round/4MarsPhotoApp/app/src/main/res/layout/fragment_overview.xml" value="0.2817028985507246" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
